@@ -4,7 +4,8 @@ We have been given a pcap file, Let us just check if there is any direct flag wr
 
 Let us use 
 ```bash 
-strings  file.pcapng```
+strings  file.pcapng
+```
 
 There is something that makes me happy, The FLAAAAG!
 
