@@ -29,7 +29,7 @@ Let us try !!!!
 First find all the packet is squence, open the file in wireshark, add filter 
 
 ```bash
-*frame contains dot*
+frame contains dot
 ```
 
 i got the protocol, That's ICMP
