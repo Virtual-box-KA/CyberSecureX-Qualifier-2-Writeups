@@ -2,7 +2,7 @@
 
 We have been given a pcap file, Let us just check if there is any direct flag written in it
 
-Let us use 'strings  file.pcapng'
+Let us use '''bash strings  file.pcapng'''
 There is something that makes me happy, The FLAAAAG!
 
 
