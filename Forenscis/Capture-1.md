@@ -26,7 +26,12 @@ But hey! I see something unusal, **dot, dash**
 Probaby Morse Code??
 
 Let us try !!!!
-First find all the packet is squence, open the file in wireshark, add filter *frame contains dot*
+First find all the packet is squence, open the file in wireshark, add filter 
+
+```bash
+*frame contains dot*
+```
+
 i got the protocol, That's ICMP
 
 Treverse through the all the packets the protocol
