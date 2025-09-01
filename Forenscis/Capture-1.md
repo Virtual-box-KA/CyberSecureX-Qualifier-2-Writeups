@@ -16,8 +16,10 @@ There is something that makes me happy, The FLAAAAG!
 
 
 
- 
+ ```bash
 **flag{h3r3_7t_i5}**
+```
+
 My Hates to the OC, it was a decoy
 
 But let us see if there is something else - 
@@ -35,5 +37,8 @@ Write those dots and dashes
 Decode from the morse-
 FINALLLYYYYYYY!
 
-Here is the flag - **flag{t3l3gr4m_ftw}**
+Here is the flag - 
+```bash
+**flag{t3l3gr4m_ftw}**
+```
 
