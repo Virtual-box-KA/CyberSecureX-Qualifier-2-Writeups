@@ -28,7 +28,14 @@ Open this file
 <img width="1043" height="541" alt="image" src="https://github.com/user-attachments/assets/4dc5381a-dfbb-47d2-9677-a370fbc7520a" />
 
 
-Ohh okay, Feels like morse again
+Ohh okay, Feels like morse again. 
+
+We can see some, 
+1. small length high pitch sounds - dots
+2. Long length high pitch sounds - dashes
+3. And no pitches - spaces
+
+
 OCs, Do you like morse ??
 Message from me 
 
@@ -36,11 +43,7 @@ Message from me
 .-.. --- ...- . ....... ..-. .-. --- -- ....... .-- .- -... -... .. - ....... ...--
 ```
 
-Okay back to the topic,
-We can see some, 
-1. small length high pitch sounds - dots
-2. Long length high pitch sounds - dashes
-3. And no pitches - spaces
+Okay back to the topic.
 
 Just convert that into strings
 The final flag is 
