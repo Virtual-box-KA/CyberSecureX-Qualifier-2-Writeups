@@ -1,6 +1,6 @@
 # Fractured Truth
 
-Fellas, a zip *tiles.7z* is gives
+Fellas, a zip *"tiles.7z"* is gives
 Let us first unzip it.
 
 8 Images, Seems like parts of a qr code.
@@ -79,6 +79,7 @@ Ohh nice, Got 12 Qrs. Most of them unsable but one
 
 <img width="263" height="263" alt="image" src="https://github.com/user-attachments/assets/3fb8538c-66f2-47f4-b0dc-ba7fcbafefba" />
 
+Just scan it with any qr scanner
 
 The final flag is 
 ```bash
