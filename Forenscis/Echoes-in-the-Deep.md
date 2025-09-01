@@ -25,7 +25,8 @@ i used sonic visualizer
 
 Open this file
 
-<img width="677" height="35" alt="image" src="https://github.com/user-attachments/assets/8fb8deb1-fac2-4317-8e69-0785741bae16" />
+<img width="1043" height="541" alt="image" src="https://github.com/user-attachments/assets/4dc5381a-dfbb-47d2-9677-a370fbc7520a" />
+
 
 Ohh okay, Feels like morse again
 OCs, Do you like morse ??
