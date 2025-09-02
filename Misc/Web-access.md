@@ -24,4 +24,6 @@ The sentence that comes to my mind
 Yeaaaah ! That's the password, Got another file. 
 Seems a log file for some website
 
-<img width="940" height="210" alt="image" src="https://github.com/user-attachments/assets/d14b59c4-a731-42d5-bdb3-2cf64b498d0f" />
+<img width="940" height="210" alt="image" src="https://github.com/user-attachments/assets/d14b59c4-a731-42d5-bdb3-2cf64b498d0f" /><br>
+
+I analyzed the file, as the description said, It showed a pattern of sql injection. 
