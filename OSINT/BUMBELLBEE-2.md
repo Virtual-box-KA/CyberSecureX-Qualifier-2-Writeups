@@ -2,7 +2,7 @@
 
 >He's Back. Check last CTF . Who is this Bumbellbee, Check for the latest techniques he used for hacking.
 
-In the last CTF, we were able to figure out, what Bumbellbee was and it was associated  with Ethical-buddy.
+In the last CTF, we were asked to figure out, what Bumbellbee was and it was associated  with Ethical-buddy.
 Visited his Github repo.
 
 Checked for the latest git commit in any repo (taking hint from the description)
