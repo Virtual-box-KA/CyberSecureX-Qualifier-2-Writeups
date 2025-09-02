@@ -1,7 +1,7 @@
 # Hidden Whispers
 
-A zip file is given, extract it.\
-We got a image, Visually its just a wall.
+A zip file *wall.jpg.gz* is given, extract it.\
+We got a image, Visually its just a wall, Nothing unsual.
 
 Let us check for any stegno, using 
 
