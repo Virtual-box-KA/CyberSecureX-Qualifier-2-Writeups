@@ -35,16 +35,6 @@ We can see some,
 2. Long length high pitch sounds - dashes
 3. And no pitches - spaces
 
-
-OCs, Do you like morse ??
-Message from me 
-
-```bash
-.-.. --- ...- . ....... ..-. .-. --- -- ....... .-- .- -... -... .. - ....... ...--
-```
-
-Okay back to the topic.
-
 Just convert that into strings
 The final flag is 
 ```bash
