@@ -1,7 +1,7 @@
 # Echoes in the Deep
 
 Given a zip file *"deep_secrets.zip"*
-let us extarct it
+let us extract it
 
 Hmm, but it doesn't feel like a zip
 Need to find out the file type
@@ -19,8 +19,7 @@ Use command
 mv deep_secrets.zip deep_secrets.wav
 ```
 
-Now let us just try to open this file in tools like, Audacity or Sonic-Visualizer. Use any
-i used sonic visualizer
+Now let us just try to open this file in tools like, Audacity or Sonic-Visualizer. Use any one of them. I used sonic visualizer
 
 
 Open this file
