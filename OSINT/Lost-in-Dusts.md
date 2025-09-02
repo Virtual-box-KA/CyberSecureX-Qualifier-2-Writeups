@@ -15,7 +15,7 @@ Okay let us check reviews, sort for newest.
 <img width="349" height="238" alt="image" src="https://github.com/user-attachments/assets/2360129d-1071-41dd-bd65-a09efefa166d" /> <br>
 
 Why OC, Why? Just 3 star 😢.
-Their Belgian Shake is very Taste, My recomendation try it once.<br>
+Their Belgium Shake is very Taste, My recomendation try it once.<br>
 
 The final flag is 
 ```bash
