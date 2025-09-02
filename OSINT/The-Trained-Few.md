@@ -10,8 +10,8 @@ Let us check offical Handles of KIET, to see if there is something like **Traini
 
 Post on 21 Aug             |  Post on 24 Aug
 :-------------------------:|:-------------------------:
-![WhatsApp Image 2025-09-02 at 11 57 24](https://github.com/user-attachments/assets/feba6808-6e03-49c3-926e-e9eec61e8a68)
-  |  ![WhatsApp Image 2025-09-02 at 11 57 24](https://github.com/user-attachments/assets/6e1b07cc-f033-4a24-a23c-cc296453de1e)
+![Image 1](https://github.com/user-attachments/assets/feba6808-6e03-49c3-926e-e9eec61e8a68) ![Image 2](https://github.com/user-attachments/assets/6e1b07cc-f033-4a24-a23c-cc296453de1e)
+
 
 In the Description it says, the number, **96 on 21 Aug** and 65 on **24 on 24 Aug**
 
