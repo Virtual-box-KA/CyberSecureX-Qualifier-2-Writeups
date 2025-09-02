@@ -16,3 +16,11 @@ Okay, it Took a day but coundnt bruteforce it
 
 Later comes the hint 
 
+<img width="378" height="79" alt="image" src="https://github.com/user-attachments/assets/83c62a3f-5834-4270-8da6-5d37addd4fcb" />
+
+The sentence that comes to my mind
+> thequickbrownfoxjumpsoverthelazydog
+
+Yeaaaah ! That's the password, Got another file. 
+Seems a log file
+
