@@ -76,7 +76,7 @@ for i, combo in enumerate(combinations):
 ```
 
 Ohh nice, Got 12 Qrs. Most of them are useless but two, Scan both of them, One of them is a decoy. 
-My hate continues for the OCs.
+> My hate continues for the OCs.
 
 
 <img width="263" height="263" alt="image" src="https://github.com/user-attachments/assets/3fb8538c-66f2-47f4-b0dc-ba7fcbafefba" />
