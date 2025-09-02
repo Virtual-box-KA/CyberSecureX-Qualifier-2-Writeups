@@ -1,6 +1,6 @@
 # Capture 1
 
-We have been given a pcap file, Let us just check if there is any direct flag written in it
+We have been given a pcap file, Let us just check if there is any flag directly written in it
 
 Let us use 
 ```bash 
