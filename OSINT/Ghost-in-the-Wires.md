@@ -13,7 +13,7 @@ In the Announcement Channel, I can see only 3 people can send messsages.
 
 They also have roles as oc in the discord.
 
-As the description says, Ghost, uploaded online, cannot be deleted online. That means **Github**
+As the description says, Ghost, uploaded online, cannot be deleted online. Probaly means **Github** as it has version control
 
 1. UnethicalBuddy Posted, Write Ups for last CTF, got his Github from there. Nothing Exciting Over there.
 2. Then ethical-buddy, Single google search is enough to find his github. Nothing here as well.
