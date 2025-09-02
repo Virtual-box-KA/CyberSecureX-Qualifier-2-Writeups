@@ -2,7 +2,7 @@
 
 > How many people did we officially train for the Red & Blue event?
 
-Here we have a keyword, **Offically**
+Here we have a keyword, **Offically**\
 KIET Group of Institutions is, hosting this whole event. 
 
 Let us check offical Handles of KIET, to see if there is something like **Training or Something Similar in this CTF Context**
