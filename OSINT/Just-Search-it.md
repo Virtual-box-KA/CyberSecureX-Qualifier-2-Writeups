@@ -16,7 +16,7 @@ I Searched it on youtubes to find its video.  Got a playlist, played the video i
 
 <img width="864" height="533" alt="image" src="https://github.com/user-attachments/assets/a14384b2-61f6-48f2-ad1f-85c89434b090" />
 
-In the comments, i got a github repo. 
+In the description, i got a github repo. Out of curosity i visited that repo.
 
 <img width="821" height="379" alt="image" src="https://github.com/user-attachments/assets/c23ea38d-8623-46f5-b493-85b5d7225c43" /> <br>
 
