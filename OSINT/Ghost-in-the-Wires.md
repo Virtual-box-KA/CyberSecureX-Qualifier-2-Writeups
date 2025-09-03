@@ -19,7 +19,7 @@ As the description says, Ghost, uploaded online, cannot be deleted online. Proba
 1. UnethicalBuddy Posted, Write Ups for last CTF, got his Github from there. Nothing Exciting Over there.
 2. Then ethical-buddy, Single google search is enough to find his github. Nothing here as well.
 3. Couldn't find much about Robots_txt
-4. I searched for the discord username and got a github profile.
+4. I searched for the discord username `root_kitten` and got a github profile.
 
 Nothing found ;-;
 
