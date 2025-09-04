@@ -1,5 +1,6 @@
 # Capture 1
-
+> The 3 little pigs are the best of friends. But 1 little pig suspects that 2 little pigs maybe scheming behind his back. The 2 little pigs know how to hide messages in network but (fortunately for you) not well enough.
+ 
 We have been given a pcap file, Let us just check if there is any flag directly written in it
 
 Let us use 
@@ -16,7 +17,7 @@ flag{h3r3_7t_i5}
 ```
 
 > **My Hates to the OC, it was a decoy** 😠
-
+---
 But let us see if there is something else - 
 Agh it just says gibberish, 
 But hey! I see something unusal, **dot, dash**
