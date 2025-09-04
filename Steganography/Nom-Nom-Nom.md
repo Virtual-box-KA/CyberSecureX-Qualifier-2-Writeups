@@ -1,7 +1,7 @@
 # Nom Nom Nom
 > Some memories hide between the lines. Check the margins.
 
-Given a zip file, first extract it.
+Given a zip file, first extract it.<br>
 <img width="264" height="125" alt="image" src="https://github.com/user-attachments/assets/fffac4e3-b44f-43ec-bb7f-ba8a4edcdcc7" />
 
 As the category is Steganography, use:
