@@ -1,15 +1,16 @@
 # Fractured Truth
+>Not everything broken can be trusted to tell the truth. Among the fragments lies deception, but only one message is whole. Can you sort the chaos and reveal what was meant to be seen?
 
-Fellas, a zip *"tiles.7z"* is gives
+Fellas, a zip file *tiles.7z* is given.  
 Let us first unzip it.
 
-8 Images, Seems like parts of a qr code.
+8 images—seems like parts of a QR code.
 
-Let us try to reassamble them, images seem to be parts of quadrant, 2 images per quadrant, I renamed them for my ease
+Let us try to reassemble them. The images seem to be parts of quadrants, 2 images per quadrant. I renamed them for my ease:
 
 <img width="1063" height="321" alt="image" src="https://github.com/user-attachments/assets/ce8121dd-c306-408e-8154-9b8053f9759e" />
 
-I am a lazy person, I created a python script to do this
+I am a lazy person, so I created a Python script to do this:
 
 ```python
   from PIL import Image
@@ -75,13 +76,13 @@ for i, combo in enumerate(combinations):
     print(f"Generated and saved final_image_{i+1}.png")
 ```
 
-Ohh nice, Got 16 Qrs. Most of them are useless but two, Scan both of them, One of them is a decoy. 
+Oh nice! Got 16 QR codes. Most of them are useless, but two are important. Scan both of them; one of them is a decoy.
 
 <img width="263" height="263" alt="image" src="https://github.com/user-attachments/assets/3fb8538c-66f2-47f4-b0dc-ba7fcbafefba" />
 
-Just scan it with any qr scanner
+Just scan it with any QR scanner.
 
-The final flag is 
+The final flag is:
 ```bash
 flag{puzzl3d_qr_c0mpl3t3}
 ```
