@@ -17,7 +17,7 @@ flag{h3r3_7t_i5}
 ```
 
 > **My Hates to the OC, it was a decoy** 😠
----
+
 But let us see if there is something else - 
 Agh it just says gibberish, 
 But hey! I see something unusal, **dot, dash**
