@@ -14,25 +14,7 @@ Using Ghidra, I loaded the binary and explored the function list. The main funct
 - FUN_001097e0: final flag verification
 - FUN_00108d80: checksum calculation
 - FUN_00109470: input processing
-
-#FUN_001097e0
-#this is the main logic
-bool FUN_001097e0(void)
-
-{
-  undefined4 extraout_EAX;
-  undefined4 extraout_EAX_00;
-  int iVar1;
-  undefined4 extraout_var;
-  undefined4 extraout_var_00;
-  undefined8 extraout_RDX;
-  undefined8 extraout_RDX_00;
-  
-  FUN_00108b40();
-  FUN_00108d60(CONCAT44(extraout_var,extraout_EAX),extraout_RDX);
-  iVar1 = FUN_00108d70(CONCAT44(extraout_var_00,extraout_EAX_00),extraout_RDX_00);
-  return iVar1 == 0x4d2;
-}
+#Above images are in the media directory
 
 #now we have found what we wanted 
 Brute forcing string will take time but will be successful.
