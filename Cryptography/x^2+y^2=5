@@ -1,0 +1,9 @@
+challenge x^2+y^2=5
+points = 200
+level=easy
+we were given with the obusficated string = 
+[$$=[+[]]]+[$$[++[[]][+[]]]=+[]]+[$$=[$$+[]][+[]][++[[]][+[]]]]+[$$$=[$[[[]+[][+[]]][+[]][++[++[++[++[[]][+[]]][+[]]][+[]]][+[]]]+[[]+[][+[]]][+[]][++[++[++[++[++[[]][+[]]][+[]]][+[]]][+[]]][+[]]]+[[]+[][+[]]][+[]][++[[]][+[]]]+[[]+[][+[]]][+[]][+......
+I observed this is the jsfuck type code
+
+Then i quickly decoded the code using the deocder above-
+
