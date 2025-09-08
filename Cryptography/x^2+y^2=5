@@ -5,7 +5,7 @@ we were given with the obusficated string =
 [$$=[+[]]]+[$$[++[[]][+[]]]=+[]]+[$$=[$$+[]][+[]][++[[]][+[]]]]+[$$$=[$[[[]+[][+[]]][+[]][++[++[++[++[[]][+[]]][+[]]][+[]]][+[]]]+[[]+[][+[]]][+[]][++[++[++[++[++[[]][+[]]][+[]]][+[]]][+[]]][+[]]]+[[]+[][+[]]][+[]][++[[]][+[]]]+[[]+[][+[]]][+[]][+......
 I observed this is the jsfuck type code
 
-
+![Jsfuck](https://github.com/Virtual-box-KA/CyberSecureX-Qualifier-2-Writeups/blob/main/media/sol3.png)
 
 Then i quickly decoded the code using the deocder above-
 
