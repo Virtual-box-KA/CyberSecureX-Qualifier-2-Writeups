@@ -5,5 +5,8 @@ we were given with the obusficated string =
 [$$=[+[]]]+[$$[++[[]][+[]]]=+[]]+[$$=[$$+[]][+[]][++[[]][+[]]]]+[$$$=[$[[[]+[][+[]]][+[]][++[++[++[++[[]][+[]]][+[]]][+[]]][+[]]]+[[]+[][+[]]][+[]][++[++[++[++[++[[]][+[]]][+[]]][+[]]][+[]]][+[]]]+[[]+[][+[]]][+[]][++[[]][+[]]]+[[]+[][+[]]][+[]][+......
 I observed this is the jsfuck type code
 
+
+
 Then i quickly decoded the code using the deocder above-
 
+Final flag: flag{You_are_a_1337_d3c0d3r}
